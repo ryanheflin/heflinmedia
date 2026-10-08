@@ -44,3 +44,8 @@ h3{letter-spacing:-.035em}
 .brand-logo-footer img{width:220px;max-width:100%}
 @media(max-width:1020px){.brand-logo img{width:195px;max-height:62px}.navlinks{gap:.85rem}.navlinks a{font-size:.8rem}}
 @media(max-width:560px){.brand-logo img{width:173px;max-height:58px}.brand-logo-footer img{width:200px}}
+
+/* Shared Airtable inquiry form */
+.hmg-inquiry-embed{width:100%;border:1px solid var(--line);background:#fff;min-height:535px;overflow:hidden}
+.hmg-airtable-form{display:block;width:100%;height:560px;border:0;background:transparent}
+@media(max-width:640px){.hmg-airtable-form{height:650px}}
