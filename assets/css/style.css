@@ -36,3 +36,11 @@ h3{letter-spacing:-.035em}
 .footer{background:#0d2235}
 @media(max-width:900px){.agency-hero{padding:85px 0}.hero-grid{grid-template-columns:1fr}.hero-aside{min-height:240px;max-width:480px;box-shadow:12px 12px 0 #bccbd3}.navlinks{background:white}}
 @media(max-width:560px){h1{font-size:clamp(3.05rem,12vw,4.5rem)}.agency-hero{padding:75px 0}.hero-aside{padding:27px}.hero-aside .diagram-label{margin-bottom:10px}.nav{min-height:74px}}
+
+/* HMG brand asset in the global navigation and footer */
+.brand-logo{display:inline-flex;align-items:center;justify-content:flex-start;flex:none;text-decoration:none;line-height:0}
+.brand-logo img{display:block;width:230px;height:auto;max-height:68px;object-fit:contain;object-position:left center}
+.brand-logo-footer{background:#fff;padding:8px 14px;width:max-content;max-width:100%;border-radius:2px}
+.brand-logo-footer img{width:220px;max-width:100%}
+@media(max-width:1020px){.brand-logo img{width:195px;max-height:62px}.navlinks{gap:.85rem}.navlinks a{font-size:.8rem}}
+@media(max-width:560px){.brand-logo img{width:173px;max-height:58px}.brand-logo-footer img{width:200px}}
