@@ -49,3 +49,10 @@ h3{letter-spacing:-.035em}
 .hmg-inquiry-embed{width:100%;border:1px solid var(--line);background:#fff;min-height:535px;overflow:hidden}
 .hmg-airtable-form{display:block;width:100%;height:560px;border:0;background:transparent}
 @media(max-width:640px){.hmg-airtable-form{height:650px}}
+
+/* Publishing imprint card: high-contrast, readable on navy section */
+.publishing-bridge .wynncrest-panel{background:#f7f5ee!important;color:#173047!important;border:1px solid #e0ddd2}
+.publishing-bridge .wynncrest-panel .eyebrow{color:#82512c!important}
+.publishing-bridge .wynncrest-panel h2{color:#173047!important}
+.publishing-bridge .wynncrest-panel p{color:#394e5a!important}
+.publishing-bridge .wynncrest-panel .textlink{color:#173047!important;border-bottom-color:#a97550!important}
