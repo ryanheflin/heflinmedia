@@ -1,0 +1,17 @@
+# Heflin Media Group
+
+> Heflin Media Group provides book strategy, coaching, nonfiction ghostwriting, manuscript development, and editorial services. Wynncrest Books is its independent publishing imprint.
+
+Official site after launch: https://heflinmedia.com/
+
+## Services
+- Book strategy and manuscript development: https://heflinmedia.com/book-development.html
+- Nonfiction ghostwriting: https://heflinmedia.com/ghostwriting.html
+- Publishing pathways: https://heflinmedia.com/publishing.html
+- Company: https://heflinmedia.com/about.html
+- Contact: https://heflinmedia.com/contact.html
+
+## Connected publishing imprint
+- Wynncrest Books: https://wynncrestbooks.com/
+
+Until launch, the new site is a preview and should not be treated as the live canonical website.
