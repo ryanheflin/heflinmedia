@@ -101,3 +101,12 @@ body{background:var(--paper);color:var(--ink)}
 .testimonial-card figcaption{font-size:.86rem;font-weight:700}
 @media(max-width:800px){.inquiry-layout,.testimonial-pair{grid-template-columns:1fr}.form-testimonial{min-height:0}.testimonial-band{padding:45px 0}}
 @media(max-width:560px){.form-testimonial,.testimonial-card{padding:25px}.testimonial-band blockquote{font-size:1.32rem}}
+
+/* Manual controls for the homepage testimonial rotation */
+.testimonial-rotator{min-height:225px}
+.testimonial-rotator-head{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.testimonial-controls{display:flex;align-items:center;gap:13px;flex:none}
+.testimonial-controls button{border:1px solid #b6aa99;background:transparent;color:var(--ink);width:38px;height:38px;border-radius:50%;font:600 1.15rem Arial,sans-serif;cursor:pointer}
+.testimonial-controls button:hover,.testimonial-controls button:focus-visible{background:#203649;color:white;outline-offset:2px}
+.testimonial-count{font-size:.73rem;color:#52616b;min-width:35px;text-align:center}
+@media(max-width:600px){.testimonial-rotator{min-height:320px}.testimonial-rotator-head{align-items:flex-start;flex-wrap:wrap}}
